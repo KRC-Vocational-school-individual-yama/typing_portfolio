@@ -1,0 +1,9 @@
+
+typinggame,タイピングゲーム,
+aaa,あああ,
+iii,いいい,
+uuu,ううう,
+eee,えええ,
+ooo,おおお,
+okasinomatioka,おかしのまちおか,
+asitatenkininaru,あしたてんきになる,
